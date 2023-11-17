@@ -2,6 +2,12 @@
 
 Make licence keys using RSA signature verification
 
+## Installation
+
+```bash
+pip install keys-yocto
+```
+
 ## Usage
 
 You'll be prompted to make new RSA keys the first time you run the app.  If you need to 
@@ -19,6 +25,17 @@ Fill in the user's details and click Sign.  Then copy the licence key and send i
 the user.
 
 ![Main window](images/main.png)
+
+### How to verify licence keys in your app
+
+```python
+from keys import key
+
+if key.valid(user, licence_key, pub_key):
+	# licence_key is valid
+else:
+	# licence_key is invalid
+```
 
 ## Support
 
