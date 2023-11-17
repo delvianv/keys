@@ -1,6 +1,6 @@
 # Yocto Keys
 
-Licence key generator that uses RSA signature verification
+Make licence keys using RSA signature verification
 
 ## Usage
 

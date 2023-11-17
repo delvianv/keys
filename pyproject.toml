@@ -7,7 +7,7 @@ name = "keys-yocto"
 dependencies = ["pyside6", "rsa"]
 requires-python = ">=3.8"
 authors = [{name = "Delvian Valentine", email = "delvian.valentine@gmail.com"}]
-description = "Licence key generator that uses RSA signature verification"
+description = "Make licence keys using RSA signature verification"
 readme = "README.md"
 license = {text = "GNU General Public License (GPL)"}
 keywords = ["licence", "license", "key"]
