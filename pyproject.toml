@@ -9,7 +9,6 @@ requires-python = ">=3.8"
 authors = [{name = "Delvian Valentine", email = "delvian.valentine@gmail.com"}]
 description = "Make licence keys using RSA signature verification"
 readme = "README.md"
-license = {text = "GNU General Public License (GPL)"}
 keywords = ["licence", "license", "key"]
 classifiers = [
   "Development Status :: 5 - Production/Stable",
