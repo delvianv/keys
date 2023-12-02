@@ -25,6 +25,9 @@ dynamic = ["version"]
 [project.gui-scripts]
 keys-yocto = "keys.ui:main"
 
+[project.urls]
+Repository = "https://github.com/delvianv/keys"
+
 [tool.setuptools.dynamic]
 version = {attr = "keys.__version__"}
 
