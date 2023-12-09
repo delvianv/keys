@@ -43,10 +43,11 @@ Pull requests are welcome.  For major changes, please open an issue first to dis
 
 ## Acknowledgements
 
-*   [Qt for Python](https://wiki.qt.io/Qt_for_Python) to make the GUI.
-*   [Python-RSA](https://stuvel.eu/software/rsa/) to make and verify the keys.
-*   [PyInstaller](https://pyinstaller.org/en/stable/) to package the app.
-*   This app is inspired by [this article](https://build-system.fman.io/generating-license-keys).
+*   [Qt for Python](https://wiki.qt.io/Qt_for_Python) for the GUI
+*   [Material Icons](https://fonts.google.com/icons) and [UXWing](https://uxwing.com/) for the icons
+*   [Python-RSA](https://stuvel.eu/software/rsa/) for making and verifying keys
+*   [PyInstaller](https://pyinstaller.org/en/stable/) for packaging
+*   This app was inspired by [this article](https://build-system.fman.io/generating-license-keys).
 
 ## Licence
 
