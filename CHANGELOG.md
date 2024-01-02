@@ -4,10 +4,10 @@
 
 ### Changed
 
-- New UI
+-   New UI
 
 ## 2.0
 
 ### Added
 
-- GUI
+-   GUI
