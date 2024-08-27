@@ -1,6 +1,6 @@
 # Yocto Keys
 
-Make licence keys using RSA signature verification
+Generate licence keys with RSA signature verification
 
 ## Installation
 
@@ -43,12 +43,12 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Acknowledgements
 
--   [Material Icons](https://fonts.google.com/icons)
--   [PyInstaller](https://pyinstaller.org/en/stable/)
--   [Python-RSA](https://stuvel.eu/software/rsa/)
--   [Qt for Python](https://wiki.qt.io/Qt_for_Python)
--   [UXWing](https://uxwing.com/)
--   This app was inspired by [this article](https://build-system.fman.io/generating-license-keys)
+- [Material Icons](https://fonts.google.com/icons)
+- [PyInstaller](https://pyinstaller.org/en/stable/)
+- [Python-RSA](https://stuvel.eu/software/rsa/)
+- [Qt for Python](https://wiki.qt.io/Qt_for_Python)
+- [UXWing](https://uxwing.com/)
+- This app was inspired by [this article](https://build-system.fman.io/generating-license-keys)
 
 ## Licence
 
